@@ -1,1 +1,14 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+#mainHeading {
+    color: red;
+}
+img.places {
+    max-width: 100%;
+}
+p.funParagraph {
+    color: green;
+}
